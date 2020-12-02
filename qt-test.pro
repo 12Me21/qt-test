@@ -1,8 +1,11 @@
-# Input
-SOURCES += main.cpp
-
-TEMPLATE = app
+QT += core widgets
 TARGET = qt-test
+TEMPLATE = app
+SOURCES += main.cpp
 INCLUDEPATH += .
 
-QT += widgets
+
+
+
+
+
